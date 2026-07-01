@@ -12,3 +12,4 @@ langchain
 langchain-community
 langchain-cohere
 PyJWT
+rank-bm25
