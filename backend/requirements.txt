@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+pymongo
+motor
+cohere
+faiss-cpu
+numpy
+sentence-transformers
+pypdf
+langchain
+langchain-community
