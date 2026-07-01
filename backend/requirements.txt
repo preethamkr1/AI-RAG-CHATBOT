@@ -7,7 +7,7 @@ motor
 cohere
 faiss-cpu
 numpy
-sentence-transformers
 pypdf
 langchain
 langchain-community
+langchain-cohere
